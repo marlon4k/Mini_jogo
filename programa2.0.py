@@ -62,8 +62,8 @@ while loop:
                 mut = n * n2
                 div = n / n2
                 print('A soma de {}+{} é: {}'.format(n, n2, s))
-                print('A subitração de {}/{} é: {}'.format(n, n2, subi))
-                print('A multiplicação de {}*{} é: {}'.format(n, n2, mut))
+                print('A subitração de {}-{} é: {}'.format(n, n2, subi))
+                print('A multiplicação de {}x{} é: {}'.format(n, n2, mut))
                 print('A divisão de {}/{} é: {:.3f}'.format(n, n2, div))
                 print('-' * 40)
 
